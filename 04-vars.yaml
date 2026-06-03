@@ -1,2 +1,11 @@
 - name: demo on play level variables
-   hosts: 
+  hosts: localhost
+  connection: local # it will not ask for username and password
+  vars:
+   Learner: "Subbu"
+   COURSE: "Ansible"
+   TRAINER: "sivakumar"
+   DURATION: "150HRS"
+  tasks:
+  - debug:
+      msg: "Hi, {{ Learner }} is learning {{ COURSE }}, Trainer is {{ TRAINER }}, Duration is {{ DURATION }}"
