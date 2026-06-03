@@ -3,5 +3,4 @@
   tasks:
     - name: hello world
       debug:
-      msg:
       msg: "Hello Ansible!"
