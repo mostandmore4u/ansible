@@ -1,0 +1,71 @@
+{ 
+  "students": [
+    {
+      "firstname": "Sreerama Chandra",
+      "LastName": "Jayam",
+      "DOB": "00-00-01",
+      "Addressess":[
+        {
+          "type": "PermAddress",
+          "street": "ramalayam",
+          "D.NO": "007",
+          "CITY": "HYD"
+        },
+        {
+          "type": "CurrentAddress",
+          "street": "ramalayam",
+          "D.NO": "007",
+          "CITY": "HYD"
+        },
+
+      ]
+    },
+  
+    {
+      "firstname": "SivaKumar",
+      "LastName": "M",
+      "DOB": "01-01-1901",
+      "Addressess":[
+        {
+          "type": "PermAddress",
+          "street": "Balaji ",
+          "D.NO": "001",
+          "CITY": "HYD"
+        },
+        {
+          "type": "CurrentAddress",
+          "street": "Balaji ",
+          "D.NO": "001",
+          "CITY": "HYD"
+        },
+
+      ]
+    },
+  
+  ]
+
+}
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,43 @@
+<!--  This is Student object  -->
+<Students>
+  <student>
+    <FirstName>SriRamaChandra </FirstName>
+    <LastName> JAYAM </LastName>
+    <DOB>00-00-01 </DOB>
+    <CellNumber>9848022338 </CellNumber>
+     <Addressess> 
+      <PermAddress> 
+          <D.NO>007<D.NO>
+          <Street> Ramalayam street </Street>
+          <addLine1> Mandapeta </addLine1>
+          <Pin>57689<Pin>
+        </PermAddress>
+        <CurrentAddress> 
+          <D.NO>007<D.NO>
+          <Street> Ramalayam street </Street>
+          <addLine1> Mandapeta </addLine1>
+          <Pin>57689<Pin>
+        </CurrentAddress>
+     </Addressess>
+  </student>
+   <student>
+    <FirstName>SriRamaChandra </FirstName>
+    <LastName> JAYAM </LastName>
+    <DOB>00-00-01 </DOB>
+    <CellNumber>9848022338 </CellNumber>
+     <Addressess> 
+      <PermAddress> 
+          <D.NO>007<D.NO>
+          <Street> Ramalayam street </Street>
+          <addLine1> Mandapeta </addLine1>
+          <Pin>57689<Pin>
+        </PermAddress>
+        <CurrentAddress> 
+          <D.NO>007<D.NO>
+          <Street> Ramalayam street </Street>
+          <addLine1> Mandapeta </addLine1>
+          <Pin>57689<Pin>
+        </CurrentAddress>
+     </Addressess>
+  </student>
+<Students>

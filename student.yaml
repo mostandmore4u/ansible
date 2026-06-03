@@ -1,0 +1,32 @@
+- name: "Sivakumar Reddy"
+  dob: "1990-01-01"
+  mobile:"1234567890"
+  Address:
+  - type: Perm
+    D.NO: 101
+    Street: "GandhiSt"
+    Locality: "BalajiNagar"
+    city: "HYD"
+
+  - type: Current
+    D.NO: 101
+    Street: "GandhiSt"
+    Locality: "BalajiNagar"
+    city: "HYD"
+
+- name: "RamachandraRao"
+  dob: "00-01-01"
+  mobile:"9848022338"
+  Address:
+  - type: Perm
+    D.NO: 007
+    Street: "RamalayamSt"
+    Locality: "GovindNagar"
+    city: "HYD"
+
+  - type: Current
+    D.NO: 007
+    Street: "RamalayamSt"
+    Locality: "GovindNagar"
+    city: "HYD"
+   
