@@ -1,7 +1,7 @@
 - name: demo on vars_files
   hosts: local
   connection: local
-  Vars_files:             #	→ they will refer to the course.yaml file, fetch the vars. 
+  vars_files:             #	→ they will refer to the course.yaml file, fetch the vars. 
   - course.yaml
   tasks:
   - name: print variables information
