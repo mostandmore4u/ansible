@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars:
-    given_number: 7
+    given_number: 80515486515484122375766487816565648 #7
   tasks:
   - when: given_number % 2 == 0
     debug:
